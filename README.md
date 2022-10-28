@@ -1,4 +1,4 @@
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)]
+![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
 <h1 align="center">Hi 👋, I'm Sushilkumar Dhamane</h1>
 <h3 align="center">I am a passionate coder and has interest in solving various algorithmic and data structure related problems,from India</h3>
