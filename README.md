@@ -1,10 +1,8 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
 
-
-
-<h1 align="center">Hi 👋, I'm Sushilkumar Dhamane</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil2002&label=Profile%20views&color=0e75b6&style=flat" alt="sushil2002" /> </p>
+<h1 align="center">Hi 👋, I'm Sushilkumar Dhamane <img src="https://komarev.com/ghpvc/?username=sushil2002&label=Profile%20views&color=0e75b6&style=flat" alt="sushil2002" /></h1>
+<!-- <p align="left">  </p> -->
 <h3 align="center">I am a passionate coder and has interest in solving various algorithmic and data structure related problems,from India</h3>
 
 
