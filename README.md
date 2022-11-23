@@ -1,16 +1,10 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
-
-
 <h2 >Hi 👋, I'm Sushilkumar Dhamane <p align="left"> <img align = "right"src="https://komarev.com/ghpvc/?username=sushil2002&label=Profile%20views&color=0e75b6&style=flat" alt="sushil2002" /> </p> </h2>
 
 <h3 align="center">I am a passionate coder and has interest in solving various algorithmic and data structure related problems,from India</h3>
 
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -33,10 +27,10 @@
 ### IDE and Tools I have Used:
 <div>
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
- <img height="40" width="40" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  
- <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png"/>
- <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
-  <img height="40" width="40" src="https://www.sublimehq.com/images/sublime_text.png"/>
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  
+<img height="40" width="40" src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png"/>
+<img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
+<img height="40" width="40" src="https://www.sublimehq.com/images/sublime_text.png"/>
   
 </div>
 
