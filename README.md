@@ -37,7 +37,7 @@
  <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/clion-icon-256x256-zaezakn1.png"/>
  <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png"/>
  <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
-  <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
+  <img height="40" width="40" src="[https://img.icons8.com/color/50/000000/git.png](https://www.sublimehq.com/images/sublime_text.png)"/>
   
 </div>
 
